@@ -71,39 +71,37 @@ My career spans the full spectrum: from large-enterprise consulting at **Accentu
 ## Career Highlights
 
 ```text
-2021 – Present   Fundação Cesgranrio     Senior Software Engineer
-                 ├─ ENEM Digital         National university entrance exam platform
-                 ├─ CPNU                 Brazil's first unified public service exam
-                 ├─ Banco do Brasil      Core financial systems
-                 ├─ ANBIMA               Capital market regulatory systems
-                 └─ Caixa Econômica      Federal bank digital services
+2021 – Present   Fundação Cesgranrio          Senior Software Engineer
+                 ├─ ENEM Digital              National university entrance exam platform
+                 ├─ CPNU                      Brazil's first unified public service exam
+                 ├─ Banco do Brasil           Core financial systems
+                 ├─ ANBIMA                    Capital market regulatory systems
+                 └─ Caixa Econômica Federal   Federal bank digital services
 
-2008 – 2013      Accenture               Systems Analyst (Large Enterprise)
-                 ├─ Sicredi              Credit analysis, risk & bureau systems
-                 ├─ Santander            Banking core systems
-                 └─ Embratel / Intelig   Telecom platforms (SOA/SOAP, EJB3, Oracle)
+2020 – 2021      EVOT                         Senior Systems Analyst
+                 ├─ Mobile (Flutter)          Apps published on Play Store & App Store
+                 └─ Web Systems               Clients: Drogaria Venancio, travel agencies
 
-2013 – 2014      Sydney, Australia       Freelance Developer
-                 ├─ NEXT Logistics       Logistics system development (C# / Java)
-                 └─ Integrated Research  Research platform maintenance
+2016 – 2019      LIFE / CONNECTCOM            Senior Programmer Analyst
+                 └─ Arquivo Nacional          Ministry of Justice — full-stack sustain &
+                                              evolution (PHP, VBScript, SQL Server)
+
+2015 – 2016      ZYDAX                        .NET Specialist Consultant
+                 ├─ Kinoplex                  Cinema chain systems
+                 └─ Arquivo Nacional          Technical management & requirements (FPA)
+
+2014 – 2015      WORKIT                       Senior Analyst
+                 └─ Solutions Architecture    New product stack design & vendor mgmt
+
+2013 – 2014      Sydney, Australia            Freelance Developer
+                 ├─ NEXT Logistics            Logistics systems (C# / Java)
+                 └─ Integrated Research       Research platform maintenance
+
+2008 – 2013      Accenture                    Systems Analyst (Large Enterprise)
+                 ├─ Sicredi                   Credit analysis, risk & bureau systems
+                 ├─ Santander                 Banking core systems
+                 └─ Embratel / Intelig        Telecom platforms (SOA/SOAP, EJB3, Oracle)
 ```
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablorgarrido&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablorgarrido&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pablorgarrido&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
