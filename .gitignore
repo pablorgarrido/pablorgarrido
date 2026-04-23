@@ -1,0 +1,15 @@
+# IDEs and Editors
+.idea/
+.vscode/
+.cursor/
+
+# AI Assistants / Agents
+.agent/
+.agent-data/
+.claude/
+
+# GitHub
+.github/
+
+# Environment Variables
+.env*
